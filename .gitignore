@@ -1,0 +1,4 @@
+# Library file
+venv/
+# IDE config files
+.idea/
