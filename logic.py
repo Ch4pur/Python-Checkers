@@ -13,6 +13,3 @@ class Checker:
     def __init__(self,cell,color):
         self.cell = cell
         self.color = color
-
-
-class QueenChecker(Checker):
